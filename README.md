@@ -58,9 +58,9 @@
 ➡️ [get all project demo video...](https://www.youtube.com/channel/UCrbDzASDGYLM-htutvAIs4w/playlists)
 
 [website]: https://shihab-365.blogspot.com
-[facebook]: https://web.facebook.com/this.shihab
+[facebook]: https://web.facebook.com/Shihab365.fb
 [youtube]: https://www.youtube.com/channel/UCrbDzASDGYLM-htutvAIs4w
-[linkedin]: https://www.linkedin.com/in/shihab007
+[linkedin]: https://www.linkedin.com/in/Shihab365
 [telegram]: https://t.me/mrShihab007
 [playstore]: https://play.google.com/store/search?q=pub%3ALupine%20Soft.&c=apps&hl=en
 [stackoverflow]: https://stackoverflow.com/users/11212298/shihab007?tab=profile
