@@ -1,7 +1,7 @@
 ### Hi there, I'm Shihab - aka [Shihab365][website] 👋
 
 [![Website](https://img.shields.io/website?label=Shihab365.com&style=for-the-badge&up_message=UP&url=https%3A%2F%2Fshihab-365.blogspot.com)](https://shihab-365.blogspot.com)
-[![Linkedin URL](https://img.shields.io/twitter/url?color=FFFFFF&label=Connect%20%40Shihab365&logo=Linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fshihab007)](https://www.linkedin.com/in/shihab007)
+[![Linkedin URL](https://img.shields.io/twitter/url?color=FFFFFF&label=Connect%20%40Shihab365&logo=Linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fshihab007)](https://www.linkedin.com/in/Shihab365)
 
 ## I'm a Learner, Developer, and Book Lover!
 
