@@ -1,6 +1,6 @@
 ### Hi there, I'm Shihab - aka [Shihab365][website] 👋
 
-[![Website](https://img.shields.io/website?label=Shihab365.com&style=for-the-badge&up_message=UP&url=https%3A%2F%2Fshihab-365.blogspot.com)](https://srshihab.blogspot.com)
+[![Website](https://img.shields.io/website?label=srshihab.com&style=for-the-badge&up_message=UP&url=https%3A%2F%2Fsrshihab.blogspot.com)](https://srshihab.blogspot.com)
 [![Linkedin URL](https://img.shields.io/twitter/url?color=FFFFFF&label=Connect%20%40Shihab365&logo=Linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fshihab007)](https://www.linkedin.com/in/Shihab365)
 
 ## I'm a Learner, Developer, and Book Lover!
@@ -57,10 +57,10 @@
 
 ➡️ [get all project demo video...](https://www.youtube.com/channel/UCrbDzASDGYLM-htutvAIs4w/playlists)
 
-[website]: https://shihab-365.blogspot.com
+[website]: https://srshihab.blogspot.com
 [facebook]: https://web.facebook.com/Shihab365.fb
 [youtube]: https://www.youtube.com/channel/UCrbDzASDGYLM-htutvAIs4w
 [linkedin]: https://www.linkedin.com/in/Shihab365
 [telegram]: https://t.me/mrShihab007
-[playstore]: https://play.google.com/store/search?q=pub%3ALupine%20Soft.&c=apps&hl=en
+[playstore]: https://play.google.com/store/apps/developer?id=Shihab365
 [stackoverflow]: https://stackoverflow.com/users/11212298/shihab365?tab=profile
